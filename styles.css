@@ -1,0 +1,30 @@
+
+body{
+    margin:0;
+    font-family:'Montserrat';
+    font-size:1rem;
+    line-height:1.5;
+   }
+   main{
+     background:#eee;  
+     padding:15px;
+     margin:30px 15px;
+   }
+   #image{
+     display:block;
+     max-width:100%;
+     height:auto;
+     margin:0 auto;
+   
+   }
+   h1,h4,p{
+     text-align:center;
+   }
+   #img-div{
+     background:white;
+     padding:10px;
+     margin:0;
+   }
+   a{
+     color:black;
+   }
